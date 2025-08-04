@@ -41,6 +41,6 @@ Navigated to the `caesar` subdirectory using `cd caesar`
 
 ## Reflections
 
-- Reading encrypted instructions simulated real-world forensic analysis
-- Solving the Caesar cipher reinforced classical cryptography fundamentals
-- Using OpenSSL demonstrated practical symmetric encryption/decryption
+- Reading encrypted instructions simulated real-world forensic analysis.
+- Solving the Caesar cipher reinforced classical cryptography fundamentals.
+- Using OpenSSL demonstrated practical symmetric encryption/decryption.
