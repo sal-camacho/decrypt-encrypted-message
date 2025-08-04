@@ -24,7 +24,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 
 ### Find and decrypt a hidden file
 
-- Navigated to the `caesar` subdirectory using `cd caesar`  
+Navigated to the `caesar` subdirectory using `cd caesar`  
 - Listed hidden files with `ls -a`  
 - Read `.leftShift3` using `cat .leftShift3`  
 - Decrypted Caesar cipher using:
@@ -34,13 +34,13 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 ## Tools Used
 
 - ls — to list files
-= cat — to read file contents
-= cd — to navigate directories
-= tr — to translate Caesar cipher text
-= openssl — to decrypt AES-256-CBC encrypted file
+- cat — to read file contents
+- cd — to navigate directories
+- tr — to translate Caesar cipher text
+- openssl — to decrypt AES-256-CBC encrypted file
 
 ## Reflections
 
-= Reading encrypted instructions simulated real-world forensic analysis
-= Solving the Caesar cipher reinforced classical cryptography fundamentals
+- Reading encrypted instructions simulated real-world forensic analysis
+- Solving the Caesar cipher reinforced classical cryptography fundamentals
 - Using OpenSSL demonstrated practical symmetric encryption/decryption
