@@ -12,7 +12,7 @@ Here’s how I completed the task:
 - Decrypted the encrypted data file to recover my data and reveal the hidden message
 
 ---
-## Linux Cryptography Lab — Decrypt an Encrypted Message
+## Linux Cryptography — Decrypt an Encrypted Message
 
 This report was completed as part of the Google Cybersecurity Certificate. It documents how to decrypt encrypted files using Linux Bash commands and classical cryptographic techniques. These tasks are essential for encryption workflows, secure data recovery, and foundational cryptographic principles.
 ## My Contributions
