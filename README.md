@@ -32,6 +32,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
   cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"
 
 ## Tools Used
+
 - ls — to list files
 = cat — to read file contents
 = cd — to navigate directories
@@ -39,6 +40,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 = openssl — to decrypt AES-256-CBC encrypted file
 
 ## Reflections
+
 = Reading encrypted instructions simulated real-world forensic analysis
 = Solving the Caesar cipher reinforced classical cryptography fundamentals
 - Using OpenSSL demonstrated practical symmetric encryption/decryption
