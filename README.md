@@ -43,7 +43,7 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 ## Tools Used
 
 - ls — to list files
-- ls -a` — to list all files, including hidden ones
+- ls -a — to list all files, including hidden ones
 - cat — to read file contents
 - cd — to navigate directories
 - tr — to translate Caesar cipher text
