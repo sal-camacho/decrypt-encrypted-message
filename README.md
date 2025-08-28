@@ -54,5 +54,3 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
 - Reading encrypted instructions simulated real-world forensic analysis.
 - Solving the Caesar cipher reinforced classical cryptography fundamentals.
 - Using OpenSSL demonstrated practical symmetric encryption/decryption.
-
----
